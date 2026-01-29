@@ -1,0 +1,1594 @@
+{
+  "tasks": [
+    {
+      "id": "crab_fishing_vessel_001",
+      "title": "Secure gear - Wheelhouse",
+      "description": "Confirm secure gear in the wheelhouse without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Wheelhouse",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "crab_fishing_vessel_002",
+      "title": "Check alarms - Wheelhouse",
+      "description": "Confirm check alarms in the wheelhouse without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Wheelhouse",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "crab_fishing_vessel_003",
+      "title": "Inspect flood barriers - Wheelhouse",
+      "description": "Confirm inspect flood barriers in the wheelhouse without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Wheelhouse",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "crab_fishing_vessel_004",
+      "title": "Verify navigation - Wheelhouse",
+      "description": "Confirm verify navigation in the wheelhouse without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Wheelhouse",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "crab_fishing_vessel_005",
+      "title": "Stow loose equipment - Wheelhouse",
+      "description": "Confirm stow loose equipment in the wheelhouse without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Wheelhouse",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "crab_fishing_vessel_006",
+      "title": "Monitor systems - Wheelhouse",
+      "description": "Confirm monitor systems in the wheelhouse without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Wheelhouse",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "crab_fishing_vessel_007",
+      "title": "Secure gear - Aft Deck",
+      "description": "Confirm secure gear in the aft deck without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Aft Deck",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "crab_fishing_vessel_008",
+      "title": "Check alarms - Aft Deck",
+      "description": "Confirm check alarms in the aft deck without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Aft Deck",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "crab_fishing_vessel_009",
+      "title": "Inspect flood barriers - Aft Deck",
+      "description": "Confirm inspect flood barriers in the aft deck without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Aft Deck",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "crab_fishing_vessel_010",
+      "title": "Verify navigation - Aft Deck",
+      "description": "Confirm verify navigation in the aft deck without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Aft Deck",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "crab_fishing_vessel_011",
+      "title": "Stow loose equipment - Aft Deck",
+      "description": "Confirm stow loose equipment in the aft deck without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Aft Deck",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "crab_fishing_vessel_012",
+      "title": "Monitor systems - Aft Deck",
+      "description": "Confirm monitor systems in the aft deck without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Aft Deck",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "crab_fishing_vessel_013",
+      "title": "Secure gear - Pot Stack",
+      "description": "Confirm secure gear in the pot stack without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Pot Stack",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "crab_fishing_vessel_014",
+      "title": "Check alarms - Pot Stack",
+      "description": "Confirm check alarms in the pot stack without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Pot Stack",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "crab_fishing_vessel_015",
+      "title": "Inspect flood barriers - Pot Stack",
+      "description": "Confirm inspect flood barriers in the pot stack without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Pot Stack",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "crab_fishing_vessel_016",
+      "title": "Verify navigation - Pot Stack",
+      "description": "Confirm verify navigation in the pot stack without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Pot Stack",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "crab_fishing_vessel_017",
+      "title": "Stow loose equipment - Pot Stack",
+      "description": "Confirm stow loose equipment in the pot stack without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Pot Stack",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "crab_fishing_vessel_018",
+      "title": "Monitor systems - Pot Stack",
+      "description": "Confirm monitor systems in the pot stack without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Pot Stack",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "crab_fishing_vessel_019",
+      "title": "Secure gear - Engine Room",
+      "description": "Confirm secure gear in the engine room without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "crab_fishing_vessel_020",
+      "title": "Check alarms - Engine Room",
+      "description": "Confirm check alarms in the engine room without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "crab_fishing_vessel_021",
+      "title": "Inspect flood barriers - Engine Room",
+      "description": "Confirm inspect flood barriers in the engine room without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "crab_fishing_vessel_022",
+      "title": "Verify navigation - Engine Room",
+      "description": "Confirm verify navigation in the engine room without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "crab_fishing_vessel_023",
+      "title": "Stow loose equipment - Engine Room",
+      "description": "Confirm stow loose equipment in the engine room without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "crab_fishing_vessel_024",
+      "title": "Monitor systems - Engine Room",
+      "description": "Confirm monitor systems in the engine room without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "crab_fishing_vessel_025",
+      "title": "Secure gear - Crew Quarters",
+      "description": "Confirm secure gear in the crew quarters without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "crab_fishing_vessel_026",
+      "title": "Check alarms - Crew Quarters",
+      "description": "Confirm check alarms in the crew quarters without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "crab_fishing_vessel_027",
+      "title": "Inspect flood barriers - Crew Quarters",
+      "description": "Confirm inspect flood barriers in the crew quarters without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "crab_fishing_vessel_028",
+      "title": "Verify navigation - Crew Quarters",
+      "description": "Confirm verify navigation in the crew quarters without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "crab_fishing_vessel_029",
+      "title": "Stow loose equipment - Crew Quarters",
+      "description": "Confirm stow loose equipment in the crew quarters without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "crab_fishing_vessel_030",
+      "title": "Monitor systems - Crew Quarters",
+      "description": "Confirm monitor systems in the crew quarters without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "crab_fishing_vessel_031",
+      "title": "Secure gear - Galley",
+      "description": "Confirm secure gear in the galley without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Galley",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "crab_fishing_vessel_032",
+      "title": "Check alarms - Galley",
+      "description": "Confirm check alarms in the galley without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Galley",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "crab_fishing_vessel_033",
+      "title": "Inspect flood barriers - Galley",
+      "description": "Confirm inspect flood barriers in the galley without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Galley",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "crab_fishing_vessel_034",
+      "title": "Verify navigation - Galley",
+      "description": "Confirm verify navigation in the galley without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Galley",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "crab_fishing_vessel_035",
+      "title": "Stow loose equipment - Galley",
+      "description": "Confirm stow loose equipment in the galley without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Galley",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "crab_fishing_vessel_036",
+      "title": "Monitor systems - Galley",
+      "description": "Confirm monitor systems in the galley without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Galley",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "longline_vessel_001",
+      "title": "Secure gear - Bridge",
+      "description": "Confirm secure gear in the bridge without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Bridge",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "longline_vessel_002",
+      "title": "Check alarms - Bridge",
+      "description": "Confirm check alarms in the bridge without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Bridge",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "longline_vessel_003",
+      "title": "Inspect flood barriers - Bridge",
+      "description": "Confirm inspect flood barriers in the bridge without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Bridge",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "longline_vessel_004",
+      "title": "Verify navigation - Bridge",
+      "description": "Confirm verify navigation in the bridge without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Bridge",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "longline_vessel_005",
+      "title": "Stow loose equipment - Bridge",
+      "description": "Confirm stow loose equipment in the bridge without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Bridge",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "longline_vessel_006",
+      "title": "Monitor systems - Bridge",
+      "description": "Confirm monitor systems in the bridge without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Bridge",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "longline_vessel_007",
+      "title": "Secure gear - Line Haul Deck",
+      "description": "Confirm secure gear in the line haul deck without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Haul Deck",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "longline_vessel_008",
+      "title": "Check alarms - Line Haul Deck",
+      "description": "Confirm check alarms in the line haul deck without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Haul Deck",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "longline_vessel_009",
+      "title": "Inspect flood barriers - Line Haul Deck",
+      "description": "Confirm inspect flood barriers in the line haul deck without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Haul Deck",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "longline_vessel_010",
+      "title": "Verify navigation - Line Haul Deck",
+      "description": "Confirm verify navigation in the line haul deck without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Haul Deck",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "longline_vessel_011",
+      "title": "Stow loose equipment - Line Haul Deck",
+      "description": "Confirm stow loose equipment in the line haul deck without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Haul Deck",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "longline_vessel_012",
+      "title": "Monitor systems - Line Haul Deck",
+      "description": "Confirm monitor systems in the line haul deck without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Haul Deck",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "longline_vessel_013",
+      "title": "Secure gear - Line Locker",
+      "description": "Confirm secure gear in the line locker without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Locker",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "longline_vessel_014",
+      "title": "Check alarms - Line Locker",
+      "description": "Confirm check alarms in the line locker without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Locker",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "longline_vessel_015",
+      "title": "Inspect flood barriers - Line Locker",
+      "description": "Confirm inspect flood barriers in the line locker without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Locker",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "longline_vessel_016",
+      "title": "Verify navigation - Line Locker",
+      "description": "Confirm verify navigation in the line locker without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Locker",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "longline_vessel_017",
+      "title": "Stow loose equipment - Line Locker",
+      "description": "Confirm stow loose equipment in the line locker without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Locker",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "longline_vessel_018",
+      "title": "Monitor systems - Line Locker",
+      "description": "Confirm monitor systems in the line locker without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Locker",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "longline_vessel_019",
+      "title": "Secure gear - Processing Station",
+      "description": "Confirm secure gear in the processing station without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Processing Station",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "longline_vessel_020",
+      "title": "Check alarms - Processing Station",
+      "description": "Confirm check alarms in the processing station without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Processing Station",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "longline_vessel_021",
+      "title": "Inspect flood barriers - Processing Station",
+      "description": "Confirm inspect flood barriers in the processing station without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Processing Station",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "longline_vessel_022",
+      "title": "Verify navigation - Processing Station",
+      "description": "Confirm verify navigation in the processing station without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Processing Station",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "longline_vessel_023",
+      "title": "Stow loose equipment - Processing Station",
+      "description": "Confirm stow loose equipment in the processing station without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Processing Station",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "longline_vessel_024",
+      "title": "Monitor systems - Processing Station",
+      "description": "Confirm monitor systems in the processing station without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Processing Station",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "longline_vessel_025",
+      "title": "Secure gear - Engine Room",
+      "description": "Confirm secure gear in the engine room without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "longline_vessel_026",
+      "title": "Check alarms - Engine Room",
+      "description": "Confirm check alarms in the engine room without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "longline_vessel_027",
+      "title": "Inspect flood barriers - Engine Room",
+      "description": "Confirm inspect flood barriers in the engine room without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "longline_vessel_028",
+      "title": "Verify navigation - Engine Room",
+      "description": "Confirm verify navigation in the engine room without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "longline_vessel_029",
+      "title": "Stow loose equipment - Engine Room",
+      "description": "Confirm stow loose equipment in the engine room without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "longline_vessel_030",
+      "title": "Monitor systems - Engine Room",
+      "description": "Confirm monitor systems in the engine room without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Engine Room",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "longline_vessel_031",
+      "title": "Secure gear - Crew Quarters",
+      "description": "Confirm secure gear in the crew quarters without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "longline_vessel_032",
+      "title": "Check alarms - Crew Quarters",
+      "description": "Confirm check alarms in the crew quarters without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "longline_vessel_033",
+      "title": "Inspect flood barriers - Crew Quarters",
+      "description": "Confirm inspect flood barriers in the crew quarters without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "longline_vessel_034",
+      "title": "Verify navigation - Crew Quarters",
+      "description": "Confirm verify navigation in the crew quarters without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "longline_vessel_035",
+      "title": "Stow loose equipment - Crew Quarters",
+      "description": "Confirm stow loose equipment in the crew quarters without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "longline_vessel_036",
+      "title": "Monitor systems - Crew Quarters",
+      "description": "Confirm monitor systems in the crew quarters without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Crew Quarters",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "factory_trawler_001",
+      "title": "Secure gear - Bridge",
+      "description": "Confirm secure gear in the bridge without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Bridge",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "factory_trawler_002",
+      "title": "Check alarms - Bridge",
+      "description": "Confirm check alarms in the bridge without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Bridge",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "factory_trawler_003",
+      "title": "Inspect flood barriers - Bridge",
+      "description": "Confirm inspect flood barriers in the bridge without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Bridge",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "factory_trawler_004",
+      "title": "Verify navigation - Bridge",
+      "description": "Confirm verify navigation in the bridge without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Bridge",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "factory_trawler_005",
+      "title": "Stow loose equipment - Bridge",
+      "description": "Confirm stow loose equipment in the bridge without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Bridge",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "factory_trawler_006",
+      "title": "Monitor systems - Bridge",
+      "description": "Confirm monitor systems in the bridge without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Bridge",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "factory_trawler_007",
+      "title": "Secure gear - Trawl Deck",
+      "description": "Confirm secure gear in the trawl deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Trawl Deck",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "factory_trawler_008",
+      "title": "Check alarms - Trawl Deck",
+      "description": "Confirm check alarms in the trawl deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Trawl Deck",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "factory_trawler_009",
+      "title": "Inspect flood barriers - Trawl Deck",
+      "description": "Confirm inspect flood barriers in the trawl deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Trawl Deck",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "factory_trawler_010",
+      "title": "Verify navigation - Trawl Deck",
+      "description": "Confirm verify navigation in the trawl deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Trawl Deck",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "factory_trawler_011",
+      "title": "Stow loose equipment - Trawl Deck",
+      "description": "Confirm stow loose equipment in the trawl deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Trawl Deck",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "factory_trawler_012",
+      "title": "Monitor systems - Trawl Deck",
+      "description": "Confirm monitor systems in the trawl deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Trawl Deck",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "factory_trawler_013",
+      "title": "Secure gear - Factory Deck",
+      "description": "Confirm secure gear in the factory deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Factory Deck",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "factory_trawler_014",
+      "title": "Check alarms - Factory Deck",
+      "description": "Confirm check alarms in the factory deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Factory Deck",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "factory_trawler_015",
+      "title": "Inspect flood barriers - Factory Deck",
+      "description": "Confirm inspect flood barriers in the factory deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Factory Deck",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "factory_trawler_016",
+      "title": "Verify navigation - Factory Deck",
+      "description": "Confirm verify navigation in the factory deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Factory Deck",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "factory_trawler_017",
+      "title": "Stow loose equipment - Factory Deck",
+      "description": "Confirm stow loose equipment in the factory deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Factory Deck",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "factory_trawler_018",
+      "title": "Monitor systems - Factory Deck",
+      "description": "Confirm monitor systems in the factory deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Factory Deck",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "factory_trawler_019",
+      "title": "Secure gear - Freezer Hold",
+      "description": "Confirm secure gear in the freezer hold without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Freezer Hold",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "factory_trawler_020",
+      "title": "Check alarms - Freezer Hold",
+      "description": "Confirm check alarms in the freezer hold without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Freezer Hold",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "factory_trawler_021",
+      "title": "Inspect flood barriers - Freezer Hold",
+      "description": "Confirm inspect flood barriers in the freezer hold without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Freezer Hold",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "factory_trawler_022",
+      "title": "Verify navigation - Freezer Hold",
+      "description": "Confirm verify navigation in the freezer hold without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Freezer Hold",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "factory_trawler_023",
+      "title": "Stow loose equipment - Freezer Hold",
+      "description": "Confirm stow loose equipment in the freezer hold without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Freezer Hold",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "factory_trawler_024",
+      "title": "Monitor systems - Freezer Hold",
+      "description": "Confirm monitor systems in the freezer hold without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Freezer Hold",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "factory_trawler_025",
+      "title": "Secure gear - Engine Room",
+      "description": "Confirm secure gear in the engine room without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Engine Room",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "factory_trawler_026",
+      "title": "Check alarms - Engine Room",
+      "description": "Confirm check alarms in the engine room without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Engine Room",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "factory_trawler_027",
+      "title": "Inspect flood barriers - Engine Room",
+      "description": "Confirm inspect flood barriers in the engine room without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Engine Room",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "factory_trawler_028",
+      "title": "Verify navigation - Engine Room",
+      "description": "Confirm verify navigation in the engine room without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Engine Room",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "factory_trawler_029",
+      "title": "Stow loose equipment - Engine Room",
+      "description": "Confirm stow loose equipment in the engine room without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Engine Room",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "factory_trawler_030",
+      "title": "Monitor systems - Engine Room",
+      "description": "Confirm monitor systems in the engine room without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Engine Room",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "factory_trawler_031",
+      "title": "Secure gear - Crew Deck",
+      "description": "Confirm secure gear in the crew deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Crew Deck",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "factory_trawler_032",
+      "title": "Check alarms - Crew Deck",
+      "description": "Confirm check alarms in the crew deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Crew Deck",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "factory_trawler_033",
+      "title": "Inspect flood barriers - Crew Deck",
+      "description": "Confirm inspect flood barriers in the crew deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Crew Deck",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "factory_trawler_034",
+      "title": "Verify navigation - Crew Deck",
+      "description": "Confirm verify navigation in the crew deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Crew Deck",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 75
+    },
+    {
+      "id": "factory_trawler_035",
+      "title": "Stow loose equipment - Crew Deck",
+      "description": "Confirm stow loose equipment in the crew deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Crew Deck",
+      "moodTag": "MOOD_EXHAUSTED_RELIEF",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 90
+    },
+    {
+      "id": "factory_trawler_036",
+      "title": "Monitor systems - Crew Deck",
+      "description": "Confirm monitor systems in the crew deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Crew Deck",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "early",
+        "mid",
+        "late"
+      ],
+      "baseDuration": 45
+    },
+    {
+      "id": "special_001",
+      "title": "Clear green water channels",
+      "description": "Complete the clear green water channels in the aft deck without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Aft Deck",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "special_002",
+      "title": "Reconfirm radar sweep",
+      "description": "Complete the reconfirm radar sweep in the wheelhouse without procedural steps.",
+      "vesselClass": "Crab Fishing Vessel",
+      "location": "Wheelhouse",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "special_003",
+      "title": "Track line tension",
+      "description": "Complete the track line tension in the line haul deck without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Line Haul Deck",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "special_004",
+      "title": "Fog watch callout",
+      "description": "Complete the fog watch callout in the bridge without procedural steps.",
+      "vesselClass": "Longline Vessel",
+      "location": "Bridge",
+      "moodTag": "MOOD_OMINOUS_LULL",
+      "stormStages": [
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "special_005",
+      "title": "Ice accretion watch",
+      "description": "Complete the ice accretion watch in the factory deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Factory Deck",
+      "moodTag": "MOOD_DREAD_STEADY",
+      "stormStages": [
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    },
+    {
+      "id": "special_006",
+      "title": "Net drum safety pass",
+      "description": "Complete the net drum safety pass in the trawl deck without procedural steps.",
+      "vesselClass": "Factory Trawler",
+      "location": "Trawl Deck",
+      "moodTag": "MOOD_ADRENALINE_SPIKE",
+      "stormStages": [
+        "mid",
+        "late"
+      ],
+      "baseDuration": 60
+    }
+  ]
+}

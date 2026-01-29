@@ -1,0 +1,157 @@
+{
+  "profiles": [
+    {
+      "profileId": "crabber_day_storm",
+      "vesselClass": "Crab Fishing Vessel",
+      "levelName": "Level 1 - Crab Fishing Vessel",
+      "lighting": {
+        "deckFloodAmber": "#FFB45A",
+        "bridgeRed": "#7A0B0B",
+        "spotlightConeAngle": 28
+      },
+      "stages": [
+        {
+          "name": "Daybreak Swell",
+          "intensity": 0.3,
+          "durationSeconds": 240,
+          "windSpeedKnots": 25,
+          "waveHeightMeters": 3.2,
+          "fogDensity": 0.15,
+          "rainRate": 0.5,
+          "sleetRate": 0.0,
+          "spindriftRate": 0.2,
+          "deckFloodChance": 0.2,
+          "moodTag": "MOOD_OMINOUS_LULL"
+        },
+        {
+          "name": "Pot Lashings",
+          "intensity": 0.6,
+          "durationSeconds": 300,
+          "windSpeedKnots": 35,
+          "waveHeightMeters": 4.8,
+          "fogDensity": 0.2,
+          "rainRate": 0.8,
+          "sleetRate": 0.1,
+          "spindriftRate": 0.5,
+          "deckFloodChance": 0.5,
+          "moodTag": "MOOD_ADRENALINE_SPIKE"
+        },
+        {
+          "name": "Green Water Push",
+          "intensity": 0.85,
+          "durationSeconds": 360,
+          "windSpeedKnots": 42,
+          "waveHeightMeters": 5.6,
+          "fogDensity": 0.25,
+          "rainRate": 0.9,
+          "sleetRate": 0.2,
+          "spindriftRate": 0.8,
+          "deckFloodChance": 0.75,
+          "moodTag": "MOOD_DREAD_STEADY"
+        }
+      ]
+    },
+    {
+      "profileId": "longliner_twilight_fog",
+      "vesselClass": "Longline Vessel",
+      "levelName": "Level 2 - Longline Vessel",
+      "lighting": {
+        "deckFloodAmber": "#E99A3B",
+        "bridgeRed": "#6A0909",
+        "spotlightConeAngle": 24
+      },
+      "stages": [
+        {
+          "name": "Twilight Drift",
+          "intensity": 0.4,
+          "durationSeconds": 240,
+          "windSpeedKnots": 28,
+          "waveHeightMeters": 3.5,
+          "fogDensity": 0.45,
+          "rainRate": 0.4,
+          "sleetRate": 0.2,
+          "spindriftRate": 0.3,
+          "deckFloodChance": 0.3,
+          "moodTag": "MOOD_OMINOUS_LULL"
+        },
+        {
+          "name": "Radar Run",
+          "intensity": 0.7,
+          "durationSeconds": 360,
+          "windSpeedKnots": 36,
+          "waveHeightMeters": 4.5,
+          "fogDensity": 0.6,
+          "rainRate": 0.6,
+          "sleetRate": 0.4,
+          "spindriftRate": 0.5,
+          "deckFloodChance": 0.55,
+          "moodTag": "MOOD_DREAD_STEADY"
+        },
+        {
+          "name": "Line Haul Surge",
+          "intensity": 0.9,
+          "durationSeconds": 420,
+          "windSpeedKnots": 45,
+          "waveHeightMeters": 5.8,
+          "fogDensity": 0.7,
+          "rainRate": 0.7,
+          "sleetRate": 0.5,
+          "spindriftRate": 0.8,
+          "deckFloodChance": 0.7,
+          "moodTag": "MOOD_ADRENALINE_SPIKE"
+        }
+      ]
+    },
+    {
+      "profileId": "factory_trawler_night_freeze",
+      "vesselClass": "Factory Trawler",
+      "levelName": "Level 3 - Factory Trawler",
+      "lighting": {
+        "deckFloodAmber": "#D48B2E",
+        "bridgeRed": "#5A0707",
+        "spotlightConeAngle": 20
+      },
+      "stages": [
+        {
+          "name": "Night Ice",
+          "intensity": 0.5,
+          "durationSeconds": 300,
+          "windSpeedKnots": 32,
+          "waveHeightMeters": 4.2,
+          "fogDensity": 0.35,
+          "rainRate": 0.2,
+          "sleetRate": 0.6,
+          "spindriftRate": 0.5,
+          "deckFloodChance": 0.4,
+          "moodTag": "MOOD_DREAD_STEADY"
+        },
+        {
+          "name": "Freezing Spray",
+          "intensity": 0.8,
+          "durationSeconds": 420,
+          "windSpeedKnots": 46,
+          "waveHeightMeters": 6.2,
+          "fogDensity": 0.45,
+          "rainRate": 0.1,
+          "sleetRate": 0.8,
+          "spindriftRate": 0.9,
+          "deckFloodChance": 0.7,
+          "moodTag": "MOOD_ADRENALINE_SPIKE"
+        },
+        {
+          "name": "Exhausted Relief",
+          "intensity": 0.65,
+          "durationSeconds": 300,
+          "windSpeedKnots": 38,
+          "waveHeightMeters": 5.0,
+          "fogDensity": 0.25,
+          "rainRate": 0.1,
+          "sleetRate": 0.4,
+          "spindriftRate": 0.6,
+          "deckFloodChance": 0.35,
+          "moodTag": "MOOD_EXHAUSTED_RELIEF"
+        }
+      ]
+    }
+  ]
+}
