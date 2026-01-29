@@ -1,0 +1,49 @@
+{
+  "levels": [
+    {
+      "vesselClass": "Crab Fishing Vessel",
+      "levelName": "Level 1 - Crab Fishing Vessel",
+      "timeOfDay": "Day",
+      "stormProfileId": "crabber_day_storm",
+      "compartments": [
+        { "name": "Wheelhouse", "deck": "Upper", "equipment": ["UI_RADAR_GLOW", "UI_ANALOG_GAUGES", "UI_SONAR_PING"] },
+        { "name": "Aft Deck", "deck": "Main", "equipment": ["pot_launcher", "hydraulic_winch"] },
+        { "name": "Pot Stack", "deck": "Main", "equipment": ["crab_pots", "lash_points"] },
+        { "name": "Engine Room", "deck": "Lower", "equipment": ["engine_panel", "bilge_pump"] },
+        { "name": "Crew Quarters", "deck": "Lower", "equipment": ["bunks", "first_aid"] },
+        { "name": "Galley", "deck": "Lower", "equipment": ["coffee_station", "checklist_board"] }
+      ],
+      "safetyEquipment": ["life_ring", "epirb", "immersion_suits", "fire_extinguisher"]
+    },
+    {
+      "vesselClass": "Longline Vessel",
+      "levelName": "Level 2 - Longline Vessel",
+      "timeOfDay": "Twilight",
+      "stormProfileId": "longliner_twilight_fog",
+      "compartments": [
+        { "name": "Bridge", "deck": "Upper", "equipment": ["UI_RADAR_GLOW", "UI_ANALOG_GAUGES", "UI_SONAR_PING"] },
+        { "name": "Line Haul Deck", "deck": "Main", "equipment": ["line_hauler", "bait_station"] },
+        { "name": "Line Locker", "deck": "Lower", "equipment": ["line_bins", "float_racks"] },
+        { "name": "Processing Station", "deck": "Main", "equipment": ["sorting_table", "deck_wash"] },
+        { "name": "Engine Room", "deck": "Lower", "equipment": ["engine_panel", "hydraulic_manifold"] },
+        { "name": "Crew Quarters", "deck": "Lower", "equipment": ["bunks", "med_kit"] }
+      ],
+      "safetyEquipment": ["life_ring", "epirb", "immersion_suits", "emergency_lights"]
+    },
+    {
+      "vesselClass": "Factory Trawler",
+      "levelName": "Level 3 - Factory Trawler",
+      "timeOfDay": "Night",
+      "stormProfileId": "factory_trawler_night_freeze",
+      "compartments": [
+        { "name": "Bridge", "deck": "Upper", "equipment": ["UI_RADAR_GLOW", "UI_ANALOG_GAUGES", "UI_SONAR_PING"] },
+        { "name": "Trawl Deck", "deck": "Main", "equipment": ["trawl_winches", "net_drums"] },
+        { "name": "Factory Deck", "deck": "Main", "equipment": ["processing_line", "freezer_controls"] },
+        { "name": "Freezer Hold", "deck": "Lower", "equipment": ["ice_room", "cold_storage"] },
+        { "name": "Engine Room", "deck": "Lower", "equipment": ["engine_panel", "power_management"] },
+        { "name": "Crew Deck", "deck": "Lower", "equipment": ["bunks", "warm_room"] }
+      ],
+      "safetyEquipment": ["life_ring", "epirb", "immersion_suits", "ice_axes"]
+    }
+  ]
+}
